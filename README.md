@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codex90210
-- 👀 I’m interested in iOS Development
+- 👀 I’m interested in iOS Mobile Development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Swift related projects
 - 📫 How to reach me on twitter: @iosDev7
